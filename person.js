@@ -1,9 +1,9 @@
 class Person {
-  constructor(name,age){
+  constructor(name, age) {
     this.name = name;
     this.age = age;
   }
-  greeting(){
+  greeting() {
     console.log(`My name is ${this.name} and my age is ${this.age}`);
   }
 }
