@@ -9,6 +9,7 @@
   "author": "Abhishek Panwar",
   "license": "ISC",
   "dependencies": {
+    "Logger": "^0.0.0",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
